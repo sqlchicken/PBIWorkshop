@@ -1,0 +1,3 @@
+>> Profitability measure formula
+==================================================
+DIVIDE(Sales[Net Profit], SUM(Sales[Net Revenue]))
